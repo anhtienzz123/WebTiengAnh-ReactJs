@@ -1,0 +1,33 @@
+.incorrect-word-filler {
+    .english {
+        span {
+            margin-left: 50px;
+            font-size: 50px;
+            font-weight: bold;
+        }
+    }
+
+    .vietnam {
+        span {
+            margin-left: 20px;
+            font-size: 30px;
+        }
+    }
+
+    .writed {
+        text-align: center;
+    }
+
+    .fill {
+        margin-left: 90px;
+
+        .tag {
+            text-align: center;
+
+            .mark {
+                padding: 2px 20px;
+                border-radius: 10px;
+            }
+        }
+    }
+}

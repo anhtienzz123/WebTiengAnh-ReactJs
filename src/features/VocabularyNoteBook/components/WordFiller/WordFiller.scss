@@ -1,0 +1,29 @@
+.word-filler {
+    .tag {
+        text-align: center;
+
+        .mark {
+            padding: 2px 20px;
+            border-radius: 10px;
+        }
+    }
+
+    .seen-question {
+        text-align: center;
+    }
+
+    .input {
+        height: 50px;
+        border-radius: 10px;
+    }
+
+    .input--success {
+        border-color: #3e8a69;
+        background-color: #4ead84;
+    }
+
+    .input--incorrect {
+        border-color: #e16361;
+        background-color: #e98d8c;
+    }
+}
